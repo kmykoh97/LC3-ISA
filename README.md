@@ -9,8 +9,9 @@ Attached here is assembler for LC-3 programs. It can be used for binary machine 
 ## Installation  
 > Graphical installer for Windows assembler  
 > Command line installer for Linux and Mac  
-Visit [here](https://github.com/kmykoh97/LC3-ISA/tree/master/Installer) to download appropriate installer  
 
+Visit [here](https://github.com/kmykoh97/LC3-ISA/tree/master/Installer) to download appropriate installer  
+ 
 ## Subject Reference Code  
 EE306 (Introduction to Computer System)  
 
